@@ -1,9 +1,9 @@
 #pragma once
 
-namespace start
+namespace helloworld
 {
 
-   class CLASS_DECL_APP_CORE_START document :
+   class CLASS_DECL_APP_SIMPLE_HELLOWORLD document :
       public ::user::document
    {
    public:
@@ -23,4 +23,4 @@ namespace start
 
    };
 
-} // namespace start
+} // namespace helloworld

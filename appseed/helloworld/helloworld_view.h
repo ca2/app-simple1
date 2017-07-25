@@ -1,14 +1,14 @@
 #pragma once
 
 
-namespace start
+namespace helloworld
 {
 
    
    class document;
 
    
-   class CLASS_DECL_APP_CORE_START view :
+   class CLASS_DECL_APP_SIMPLE_HELLOWORLD view :
       public ::user::impact
    {
    public:
@@ -32,7 +32,7 @@ namespace start
    };
 
    
-} // namespace start
+} // namespace helloworld
 
 
 

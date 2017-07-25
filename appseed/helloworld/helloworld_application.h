@@ -1,19 +1,17 @@
 #pragma once
 
 
-namespace start
+namespace helloworld
 {
 
 
-   class CLASS_DECL_APP_CORE_START application :
+   class CLASS_DECL_APP_SIMPLE_HELLOWORLD application :
       public ::core::application
    {
    public:
       
       
-      ::user::impact_system *       m_pdocumenttemplateMain;
-      ::user::impact_system *       m_pdocumenttemplateStart;
-      ::user::impact_system *       m_pdocumenttemplateFirst;
+      ::user::impact_system *       m_pdocumenttemplate;
 
 
       application();
@@ -30,7 +28,7 @@ namespace start
 
 
 
-} // namespace start
+} // namespace helloworld
 
 
 

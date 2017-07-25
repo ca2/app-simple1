@@ -17,13 +17,13 @@ BOOL WINAPI DllMain(HINSTANCE hInstance, DWORD dwReason, LPVOID lpReserved)
    if (dwReason == DLL_PROCESS_ATTACH)
    {
 
-      ::OutputDebugStringW(L"app_love_as_a_service_start.dll :: initializing!\n");
+      ::OutputDebugStringW(L"app_love_as_a_service_helloworld.dll :: initializing!\n");
       
    }
    else if (dwReason == DLL_PROCESS_DETACH)
    {
 
-      ::OutputDebugStringW(L"app_love_as_a_service_start.dll :: terminating!\n");
+      ::OutputDebugStringW(L"app_love_as_a_service_helloworld.dll :: terminating!\n");
 
    }
 

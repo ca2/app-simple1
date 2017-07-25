@@ -13,28 +13,19 @@
     <ClCompile Include="framework.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start.cpp">
+    <ClCompile Include="helloworld.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start_application.cpp">
+    <ClCompile Include="helloworld_application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start_document.cpp">
+    <ClCompile Include="helloworld_document.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start_frame.cpp">
+    <ClCompile Include="helloworld_frame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="start_pane_view.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="start_pane_view_update_hint.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="start_view.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="start_second_view.cpp">
+    <ClCompile Include="helloworld_view.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -42,33 +33,24 @@
     <ClInclude Include="framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start.h">
+    <ClInclude Include="helloworld.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start_application.h">
+    <ClInclude Include="helloworld_application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start_document.h">
+    <ClInclude Include="helloworld_document.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start_frame.h">
+    <ClInclude Include="helloworld_frame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="start_pane_view.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="start_pane_view_update_hint.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="start_view.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="start_second_view.h">
+    <ClInclude Include="helloworld_view.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app_love_as_a_service_start.def">
+    <None Include="app_simple_helloworld.def">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>

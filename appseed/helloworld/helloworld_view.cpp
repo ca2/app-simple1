@@ -2,7 +2,7 @@
 #include <math.h>
 
 
-namespace start
+namespace helloworld
 {
 
 
@@ -72,13 +72,23 @@ namespace start
    void view::_001OnDraw(::draw2d::graphics * pgraphics)
    {
 
-      pgraphics->text_out(100, 100, "app: love as a service start");
+      rect rectClient;
+
+      GetClientRect(rectClient);
+
+      ::draw2d::font_sp font(allocer());
+
+      font->create_point_font(FONT_SANS, MIN(rectClient.height() / 5.0, rectClient.width() / 10.0), 800);
+
+      pgraphics->SelectObject(font);
+
+      pgraphics->draw_text("Hello World!!", rectClient, DT_CENTER | DT_VCENTER);
 
    }
 
 
 
-} // namespace start
+} // namespace helloworld
 
 
 

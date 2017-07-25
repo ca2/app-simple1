@@ -7,32 +7,33 @@
 #include "core/user/userex/userex.h"
 
 
-#ifdef _APP_CORE_START_LIBRARY
-    #define CLASS_DECL_APP_CORE_START  CLASS_DECL_EXPORT
+#ifdef _APP_SIMPLE_HELLOWORLD_LIBRARY
+    #define CLASS_DECL_APP_SIMPLE_HELLOWORLD  CLASS_DECL_EXPORT
 #else
-    #define CLASS_DECL_APP_CORE_START  CLASS_DECL_IMPORT
+    #define CLASS_DECL_APP_SIMPLE_HELLOWORLD  CLASS_DECL_IMPORT
 #endif
 
 
 #define HI_LOGIN 1
 #define HI_SHUTDOWN_JUST_AFTER_FIRST_MAIN_TASK 0
 
-namespace start
+
+namespace helloworld
 {
 
    class application;
-   class main_view;
 
 } // namespace flag
 
+
 #undef App
-#define App(pbaseapp) (pbaseapp->m_pcoreapp->cast_app < ::start::application > ())
+#define App(pbaseapp) (pbaseapp->m_pcoreapp->cast_app < ::helloworld::application > ())
 
-#include "start_document.h"
-#include "start_view.h"
-#include "start_second_view.h"
-#include "start_frame.h"
-#include "start_pane_view_update_hint.h"
-#include "start_pane_view.h"
 
-#include "start_application.h"
+#include "helloworld_document.h"
+#include "helloworld_view.h"
+#include "helloworld_frame.h"
+
+
+#include "helloworld_application.h"
+

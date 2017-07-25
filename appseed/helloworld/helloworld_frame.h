@@ -1,11 +1,11 @@
 #pragma once
 
 
-namespace start
+namespace helloworld
 {
 
 
-   class CLASS_DECL_APP_CORE_START frame :
+   class CLASS_DECL_APP_SIMPLE_HELLOWORLD frame :
       public simple_frame_window
    {
    public:
@@ -28,7 +28,7 @@ namespace start
    };
 
 
-} // namespace start
+} // namespace helloworld
 
 
 
