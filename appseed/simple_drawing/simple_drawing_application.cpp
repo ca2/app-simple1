@@ -11,8 +11,8 @@ namespace simple_drawing
       m_ptemplateBeatMapperMain = NULL;
       m_ptemplateBeatMapperView = NULL;
 
-      m_strAppId = "simple_drawing/simple_drawing";
-      m_strAppName = "simple_drawing/simple_drawing";
+      m_strAppId = "app-simple/simple_drawing";
+      m_strAppName = "app-simple/simple_drawing";
       m_strBaseSupportId = "ca2_flag";
       m_bLicense = false;
 
@@ -167,14 +167,14 @@ namespace simple_drawing
 
 
 extern "C"
-::aura::library * simple_drawing_simple_drawing_get_new_library(::aura::application * papp)
+::aura::library * app_simple_simple_drawing_get_new_library(::aura::application * papp)
 {
 
-   return new ::aura::single_application_library < ::simple_drawing::application >(papp, "simple_drawing/simple_drawing");
+   return new ::aura::single_application_library < ::simple_drawing::application >(papp, "app-simple/simple_drawing");
 
 }
 
 
-aura_app aura_simple_drawing_simple_drawing("simple_drawing/simple_drawing", &simple_drawing_simple_drawing_get_new_library);
+aura_app aura_app_simple_simple_drawing("app-simple/simple_drawing", &app_simple_simple_drawing_get_new_library);
 
 

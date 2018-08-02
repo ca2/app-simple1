@@ -767,7 +767,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="simple_drawing_simple_drawing.def" />
+    <None Include="app_simple_simple_drawing.def" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

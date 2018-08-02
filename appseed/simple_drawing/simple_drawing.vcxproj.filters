@@ -80,7 +80,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="simple_drawing_simple_drawing.def">
+    <None Include="app_simple_simple_drawing.def">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
