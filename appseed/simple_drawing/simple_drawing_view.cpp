@@ -113,7 +113,7 @@ namespace simple_drawing
    void view::_001OnDraw(::draw2d::graphics * pgraphics)
    {
 
-      m_psimple_drawing->_001OnBeatMapperDraw(pgraphics);
+      m_psimple_drawing->_001OnDraw(pgraphics);
 
    }
 

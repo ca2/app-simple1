@@ -29,7 +29,7 @@ namespace simple_drawing
          return ::object::dec_ref();
       }
 
-      virtual void _001OnBeatMapperDraw(::draw2d::graphics * pgraphics);
+      virtual void _001OnDraw(::draw2d::graphics * pgraphics);
 
       virtual void on_layout();
 
