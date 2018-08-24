@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 
 namespace simple_drawing
@@ -11,7 +11,7 @@ namespace simple_drawing
    public:
 
 
-      sp(simple_drawing)       m_psimple_drawing;
+      sp(simple_drawing)       m_psimpledrawing;
 
 
       view(::aura::application * papp);

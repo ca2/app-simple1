@@ -1,4 +1,4 @@
-﻿#include "framework.h"
+#include "framework.h"
 #include <math.h>
 
 
@@ -17,9 +17,9 @@ namespace simple_drawing
       m_flagNonClient.unsignalize(non_client_background);
       m_flagNonClient.unsignalize(non_client_focus_rect);
 
-      m_psimple_drawing = canew(simple_drawing(get_app()));
+      m_psimpledrawing = canew(simple_drawing(get_app()));
 
-      m_psimple_drawing->m_pview = this;
+      m_psimpledrawing->m_pview = this;
 
    }
 
@@ -113,7 +113,7 @@ namespace simple_drawing
    void view::_001OnDraw(::draw2d::graphics * pgraphics)
    {
 
-      m_psimple_drawing->_001OnDraw(pgraphics);
+      m_psimpledrawing->_001OnDraw(pgraphics);
 
    }
 
@@ -132,9 +132,9 @@ namespace simple_drawing
 
       }
 
-      m_psimple_drawing->m_rect = rectClient;
+      m_psimpledrawing->m_rect = rectClient;
 
-      m_psimple_drawing->on_layout();
+      m_psimpledrawing->on_layout();
 
    }
 

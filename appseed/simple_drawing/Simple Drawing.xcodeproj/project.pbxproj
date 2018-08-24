@@ -1,4 +1,4 @@
-﻿// !$*UTF8*$!
+// !$*UTF8*$!
 {
 	archiveVersion = 1;
 	classes = {
@@ -12,9 +12,7 @@
 		07330B191B72BE53009E318E /* libcore.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A248D1B6E772400BF6C7D /* libcore.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		073D67691B6E7B1000B8AC34 /* libdraw2d_quartz2d.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A24961B6E772400BF6C7D /* libdraw2d_quartz2d.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		073D69651B6E7B2A00B8AC34 /* libwndfrm_core.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A249F1B6E772400BF6C7D /* libwndfrm_core.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
-		073D69661B6E7B2A00B8AC34 /* libsimple_drawing_simple_drawing.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A24B71B6E773B00BF6C7D /* libsimple_drawing_simple_drawing.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		073D6D381B6E7B5E00B8AC34 /* libaxis.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A24481B6E772400BF6C7D /* libaxis.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
-		076FB4DB1C9F916900C73C4E /* libgcom.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076FB4D41C9F90E100C73C4E /* libgcom.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		07AF89311B72560F00150CC2 /* libaura.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 076A243F1B6E772400BF6C7D /* libaura.dylib */; };
 		07AF89321B72563500150CC2 /* libcore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 076A248D1B6E772400BF6C7D /* libcore.dylib */; };
 		07AF89331B72565500150CC2 /* libbase.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 076A24841B6E772400BF6C7D /* libbase.dylib */; };
@@ -24,12 +22,12 @@
 		07EF5CCB1B72C2C200863D39 /* libaura.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 076A243F1B6E772400BF6C7D /* libaura.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A2203961FFDCD1900EE03EE /* libaxispng.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A22037D1FFDC81000EE03EE /* libaxispng.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A2203971FFDCD5800EE03EE /* libaxisfreetype.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A97F0681D809469000B4EC2 /* libaxisfreetype.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		9A8529C2212F95270073FBAB /* libapp_core_hellomultiverse.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A852986212F93500073FBAB /* libapp_core_hellomultiverse.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A97F1A01D80DF56000B4EC2 /* libatomiconv.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A97F0331D80944E000B4EC2 /* libatomiconv.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A97F1A11D80DF56000B4EC2 /* libaurapcre.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A97F04A1D809453000B4EC2 /* libaurapcre.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A97F1A51D80DF56000B4EC2 /* libaxisidn.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A97F05F1D809463000B4EC2 /* libaxisidn.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9A97F1AB1D80DF56000B4EC2 /* libaxiswinpr.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9A97F07D1D809475000B4EC2 /* libaxiswinpr.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		9ACB5F041F802AA200B211A7 /* libace.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9ACB5EDF1F802A6A00B211A7 /* libace.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
-		9ACB5F831F802C3100B211A7 /* libsphere.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9ACB5F511F802B6300B211A7 /* libsphere.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +36,7 @@
 			containerPortal = 070B8EE21B6E53F900D26137 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 070B8EE91B6E53F900D26137;
-			remoteInfo = "Beat Mapper!!";
+			remoteInfo = "Hello Multiverse!!";
 		};
 		076A243E1B6E772400BF6C7D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -166,27 +164,6 @@
 			remoteGlobalIDString = 9AE24E691904CFE2001AEFFB;
 			remoteInfo = wndfrm_core_iosTests;
 		};
-		076A24B61B6E773B00BF6C7D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AEB75A316F78DF10085103B;
-			remoteInfo = simple_drawing_simple_drawing;
-		};
-		076A24B81B6E773B00BF6C7D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AE24E8A1904CFFD001AEFFB;
-			remoteInfo = ios_simple_drawing_simple_drawing;
-		};
-		076A24BA1B6E773B00BF6C7D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AE24E991904CFFD001AEFFB;
-			remoteInfo = simple_drawing_simple_drawing_iosTests;
-		};
 		076A24BC1B6E776300BF6C7D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 076A24081B6E772400BF6C7D /* aura.xcodeproj */;
@@ -229,41 +206,6 @@
 			remoteGlobalIDString = 9AEB75F316F78EDC0085103B;
 			remoteInfo = wndfrm_core;
 		};
-		076FB4D31C9F90E100C73C4E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AEB75A316F78DF10085103B;
-			remoteInfo = gcom;
-		};
-		076FB4D51C9F90E100C73C4E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AE24E8A1904CFFD001AEFFB;
-			remoteInfo = ios_gcom;
-		};
-		076FB4D71C9F90E100C73C4E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9AE24E991904CFFD001AEFFB;
-			remoteInfo = gcom_iosTests;
-		};
-		076FB4D91C9F914E00C73C4E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 9AEB75A216F78DF10085103B;
-			remoteInfo = gcom;
-		};
-		07AF892E1B7233E300150CC2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 9AEB75A216F78DF10085103B;
-			remoteInfo = simple_drawing_simple_drawing;
-		};
 		9A22037C1FFDC81000EE03EE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9A2203761FFDC80F00EE03EE /* axispng.xcodeproj */;
@@ -291,6 +233,34 @@
 			proxyType = 1;
 			remoteGlobalIDString = 9A574B9716AAB906000CC4EF;
 			remoteInfo = axispng;
+		};
+		9A852985212F93500073FBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9AEB75A316F78DF10085103B;
+			remoteInfo = app_core_hellomultiverse;
+		};
+		9A852987212F93500073FBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9AE24E8A1904CFFD001AEFFB;
+			remoteInfo = ios_app_core_hellomultiverse;
+		};
+		9A852989212F93500073FBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9AE24E991904CFFD001AEFFB;
+			remoteInfo = app_core_hellomultiverse_iosTests;
+		};
+		9A8529C0212F950C0073FBAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 9AEB75A216F78DF10085103B;
+			remoteInfo = app_simple_simple_drawing;
 		};
 		9A97F0321D80944E000B4EC2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -432,34 +402,6 @@
 			remoteGlobalIDString = 9A574B9716AAB906000CC4EF;
 			remoteInfo = ace;
 		};
-		9ACB5F501F802B6300B211A7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9A574B9816AAB906000CC4EF;
-			remoteInfo = sphere;
-		};
-		9ACB5F521F802B6300B211A7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 07B657E2190F3CCB002DAADE;
-			remoteInfo = ios_sphere;
-		};
-		9ACB5F541F802B6300B211A7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 07B657F1190F3CCC002DAADE;
-			remoteInfo = sphere_iosTests;
-		};
-		9ACB5F561F802B7200B211A7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 9A574B9716AAB906000CC4EF;
-			remoteInfo = sphere;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -469,30 +411,28 @@
 			dstPath = "";
 			dstSubfolderSpec = 6;
 			files = (
+				9A8529C2212F95270073FBAB /* libapp_core_hellomultiverse.dylib in CopyFiles */,
 				9A2203971FFDCD5800EE03EE /* libaxisfreetype.dylib in CopyFiles */,
 				9A2203961FFDCD1900EE03EE /* libaxispng.dylib in CopyFiles */,
-				9ACB5F831F802C3100B211A7 /* libsphere.dylib in CopyFiles */,
 				9ACB5F041F802AA200B211A7 /* libace.dylib in CopyFiles */,
 				9A97F1A01D80DF56000B4EC2 /* libatomiconv.dylib in CopyFiles */,
 				9A97F1A11D80DF56000B4EC2 /* libaurapcre.dylib in CopyFiles */,
 				9A97F1A51D80DF56000B4EC2 /* libaxisidn.dylib in CopyFiles */,
 				9A97F1AB1D80DF56000B4EC2 /* libaxiswinpr.dylib in CopyFiles */,
-				076FB4DB1C9F916900C73C4E /* libgcom.dylib in CopyFiles */,
 				07EF5CCB1B72C2C200863D39 /* libaura.dylib in CopyFiles */,
 				073D6D381B6E7B5E00B8AC34 /* libaxis.dylib in CopyFiles */,
 				07330B191B72BE53009E318E /* libcore.dylib in CopyFiles */,
 				07330AF51B72BE1E009E318E /* libbase.dylib in CopyFiles */,
 				073D67691B6E7B1000B8AC34 /* libdraw2d_quartz2d.dylib in CopyFiles */,
 				073D69651B6E7B2A00B8AC34 /* libwndfrm_core.dylib in CopyFiles */,
-				073D69661B6E7B2A00B8AC34 /* libsimple_drawing_simple_drawing.dylib in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		070B8EEA1B6E53F900D26137 /* Beat Mapper!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Beat Mapper!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		070B8EFD1B6E53FA00D26137 /* Beat Mapper!!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Beat Mapper!!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		070B8EEA1B6E53F900D26137 /* Simple Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simple Drawing.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		070B8EFD1B6E53FA00D26137 /* Hello Multiverse!!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello Multiverse!!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		070B8F021B6E53FA00D26137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		070B8F031B6E53FA00D26137 /* Hello_Multiverse__Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hello_Multiverse__Tests.m; sourceTree = "<group>"; };
 		076A24081B6E772400BF6C7D /* aura.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = aura.xcodeproj; path = ../../../app/appseed/aura/aura.xcodeproj; sourceTree = "<group>"; };
@@ -500,22 +440,20 @@
 		076A24261B6E772400BF6C7D /* base.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = base.xcodeproj; path = ../../../app/appseed/base/base.xcodeproj; sourceTree = "<group>"; };
 		076A24291B6E772400BF6C7D /* core.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = core.xcodeproj; path = ../../../app/appseed/core/core.xcodeproj; sourceTree = "<group>"; };
 		076A242C1B6E772400BF6C7D /* draw2d_quartz2d.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = draw2d_quartz2d.xcodeproj; path = ../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d.xcodeproj; sourceTree = "<group>"; };
-		076A242F1B6E772400BF6C7D /* wndfrm_core.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = wndfrm_core.xcodeproj; path = ../wndfrm_core/wndfrm_core.xcodeproj; sourceTree = "<group>"; };
-		076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = simple_drawing_simple_drawing.xcodeproj; sourceTree = "<group>"; };
-		076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = gcom.xcodeproj; path = ../gcom/gcom.xcodeproj; sourceTree = "<group>"; };
+		076A242F1B6E772400BF6C7D /* wndfrm_core.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = wndfrm_core.xcodeproj; path = ../../../app/appseed/wndfrm_core/wndfrm_core.xcodeproj; sourceTree = "<group>"; };
 		07C6AA171CA4F16B00B4E555 /* app.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = app.h; path = macos/app.h; sourceTree = SOURCE_ROOT; };
 		07C6AA181CA4F16B00B4E555 /* app.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = app.mm; path = macos/app.mm; sourceTree = SOURCE_ROOT; };
 		07C6AA191CA4F16B00B4E555 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = macos/Images.xcassets; sourceTree = SOURCE_ROOT; };
 		07C6AA1A1CA4F16B00B4E555 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = macos/Info.plist; sourceTree = SOURCE_ROOT; };
 		07C6AA261CA4F3A700B4E555 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = macos/main.cpp; sourceTree = SOURCE_ROOT; };
 		9A2203761FFDC80F00EE03EE /* axispng.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = axispng.xcodeproj; path = ../../../third/appseed/png/axispng.xcodeproj; sourceTree = "<group>"; };
+		9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = app_simple_simple_drawing.xcodeproj; sourceTree = "<group>"; };
 		9A97F02B1D80944E000B4EC2 /* atomiconv.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = atomiconv.xcodeproj; path = ../../../third/appseed/iconv/atomiconv.xcodeproj; sourceTree = "<group>"; };
 		9A97F0441D809453000B4EC2 /* aurapcre.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = aurapcre.xcodeproj; path = ../../../third/appseed/pcre/aurapcre.xcodeproj; sourceTree = "<group>"; };
 		9A97F0591D809463000B4EC2 /* axisidn.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = axisidn.xcodeproj; path = ../../../third/appseed/idn/axisidn.xcodeproj; sourceTree = "<group>"; };
 		9A97F0621D809469000B4EC2 /* axisfreetype.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = axisfreetype.xcodeproj; path = ../../../third/appseed/freetype/axisfreetype.xcodeproj; sourceTree = "<group>"; };
 		9A97F0771D809475000B4EC2 /* axiswinpr.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = axiswinpr.xcodeproj; path = ../../../third/appseed/winpr/axiswinpr.xcodeproj; sourceTree = "<group>"; };
 		9ACB5ED81F802A6A00B211A7 /* ace.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ace.xcodeproj; path = ../../../app/appseed/ace/ace.xcodeproj; sourceTree = "<group>"; };
-		9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = sphere.xcodeproj; path = ../../../app/appseed/sphere/sphere.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -543,7 +481,7 @@
 			isa = PBXGroup;
 			children = (
 				9ACB5ED81F802A6A00B211A7 /* ace.xcodeproj */,
-				076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */,
+				9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */,
 				9A97F02B1D80944E000B4EC2 /* atomiconv.xcodeproj */,
 				076A24081B6E772400BF6C7D /* aura.xcodeproj */,
 				9A97F0441D809453000B4EC2 /* aurapcre.xcodeproj */,
@@ -555,11 +493,9 @@
 				076A24261B6E772400BF6C7D /* base.xcodeproj */,
 				076A24291B6E772400BF6C7D /* core.xcodeproj */,
 				076A242C1B6E772400BF6C7D /* draw2d_quartz2d.xcodeproj */,
-				076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */,
-				9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */,
 				076A242F1B6E772400BF6C7D /* wndfrm_core.xcodeproj */,
 				070B8EEC1B6E53F900D26137 /* macos */,
-				070B8F001B6E53FA00D26137 /* Beat Mapper!!Tests */,
+				070B8F001B6E53FA00D26137 /* Hello Multiverse!!Tests */,
 				070B8EEB1B6E53F900D26137 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -567,8 +503,8 @@
 		070B8EEB1B6E53F900D26137 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				070B8EEA1B6E53F900D26137 /* Beat Mapper!!.app */,
-				070B8EFD1B6E53FA00D26137 /* Beat Mapper!!Tests.xctest */,
+				070B8EEA1B6E53F900D26137 /* Simple Drawing.app */,
+				070B8EFD1B6E53FA00D26137 /* Hello Multiverse!!Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -583,16 +519,16 @@
 				07C6AA261CA4F3A700B4E555 /* main.cpp */,
 			);
 			name = macos;
-			path = "Beat Mapper!!";
+			path = "Hello Multiverse!!";
 			sourceTree = "<group>";
 		};
-		070B8F001B6E53FA00D26137 /* Beat Mapper!!Tests */ = {
+		070B8F001B6E53FA00D26137 /* Hello Multiverse!!Tests */ = {
 			isa = PBXGroup;
 			children = (
 				070B8F031B6E53FA00D26137 /* Hello_Multiverse__Tests.m */,
 				070B8F011B6E53FA00D26137 /* Supporting Files */,
 			);
-			path = "Beat Mapper!!Tests";
+			path = "Hello Multiverse!!Tests";
 			sourceTree = "<group>";
 		};
 		070B8F011B6E53FA00D26137 /* Supporting Files */ = {
@@ -663,32 +599,22 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		076A24B11B6E773B00BF6C7D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				076A24B71B6E773B00BF6C7D /* libsimple_drawing_simple_drawing.dylib */,
-				076A24B91B6E773B00BF6C7D /* libsimple_drawing_simple_drawing.a */,
-				076A24BB1B6E773B00BF6C7D /* simple_drawing_simple_drawing_iosTests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		076FB4CE1C9F90E000C73C4E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				076FB4D41C9F90E100C73C4E /* libgcom.dylib */,
-				076FB4D61C9F90E100C73C4E /* libios_gcom.a */,
-				076FB4D81C9F90E100C73C4E /* gcom_iosTests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		9A2203771FFDC80F00EE03EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				9A22037D1FFDC81000EE03EE /* libaxispng.dylib */,
 				9A22037F1FFDC81000EE03EE /* libios_axispng.a */,
 				9A2203811FFDC81000EE03EE /* axispng_iosTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9A852980212F934F0073FBAB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A852986212F93500073FBAB /* libapp_core_hellomultiverse.dylib */,
+				9A852988212F93500073FBAB /* libapp_core_hellomultiverse.a */,
+				9A85298A212F93500073FBAB /* app_core_hellomultiverse_iosTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -748,22 +674,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9ACB5F4B1F802B6300B211A7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				9ACB5F511F802B6300B211A7 /* libsphere.dylib */,
-				9ACB5F531F802B6300B211A7 /* libios_sphere.a */,
-				9ACB5F551F802B6300B211A7 /* sphere_iosTests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		070B8EE91B6E53F900D26137 /* Beat Mapper!! */ = {
+		070B8EE91B6E53F900D26137 /* Simple Drawing */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 070B8F071B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Beat Mapper!!" */;
+			buildConfigurationList = 070B8F071B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Simple Drawing" */;
 			buildPhases = (
 				070B8EE61B6E53F900D26137 /* Sources */,
 				070B8EE71B6E53F900D26137 /* Frameworks */,
@@ -773,8 +689,8 @@
 			buildRules = (
 			);
 			dependencies = (
+				9A8529C1212F950C0073FBAB /* PBXTargetDependency */,
 				9A2203931FFDCCEE00EE03EE /* PBXTargetDependency */,
-				9ACB5F571F802B7200B211A7 /* PBXTargetDependency */,
 				9ACB5F031F802A8A00B211A7 /* PBXTargetDependency */,
 				9A97F1871D80DF0B000B4EC2 /* PBXTargetDependency */,
 				9A97F1891D80DF0B000B4EC2 /* PBXTargetDependency */,
@@ -782,8 +698,6 @@
 				9A97F1931D80DF0B000B4EC2 /* PBXTargetDependency */,
 				9A97F1951D80DF0B000B4EC2 /* PBXTargetDependency */,
 				9A97F1991D80DF0B000B4EC2 /* PBXTargetDependency */,
-				076FB4DA1C9F914E00C73C4E /* PBXTargetDependency */,
-				07AF892F1B7233E300150CC2 /* PBXTargetDependency */,
 				076A24CF1B6E777500BF6C7D /* PBXTargetDependency */,
 				076A24D11B6E777500BF6C7D /* PBXTargetDependency */,
 				076A24D51B6E777500BF6C7D /* PBXTargetDependency */,
@@ -791,14 +705,14 @@
 				076A24BD1B6E776300BF6C7D /* PBXTargetDependency */,
 				076A24BF1B6E776300BF6C7D /* PBXTargetDependency */,
 			);
-			name = "Beat Mapper!!";
-			productName = "Beat Mapper!!";
-			productReference = 070B8EEA1B6E53F900D26137 /* Beat Mapper!!.app */;
+			name = "Simple Drawing";
+			productName = "Hello Multiverse!!";
+			productReference = 070B8EEA1B6E53F900D26137 /* Simple Drawing.app */;
 			productType = "com.apple.product-type.application";
 		};
-		070B8EFC1B6E53FA00D26137 /* Beat Mapper!!Tests */ = {
+		070B8EFC1B6E53FA00D26137 /* Hello Multiverse!!Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 070B8F0A1B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Beat Mapper!!Tests" */;
+			buildConfigurationList = 070B8F0A1B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Hello Multiverse!!Tests" */;
 			buildPhases = (
 				070B8EF91B6E53FA00D26137 /* Sources */,
 				070B8EFA1B6E53FA00D26137 /* Frameworks */,
@@ -809,9 +723,9 @@
 			dependencies = (
 				070B8EFF1B6E53FA00D26137 /* PBXTargetDependency */,
 			);
-			name = "Beat Mapper!!Tests";
-			productName = "Beat Mapper!!Tests";
-			productReference = 070B8EFD1B6E53FA00D26137 /* Beat Mapper!!Tests.xctest */;
+			name = "Hello Multiverse!!Tests";
+			productName = "Hello Multiverse!!Tests";
+			productReference = 070B8EFD1B6E53FA00D26137 /* Hello Multiverse!!Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -820,7 +734,7 @@
 		070B8EE21B6E53F900D26137 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "ca2 Desenvolvimento de Software Ltdal";
 				TargetAttributes = {
 					070B8EE91B6E53F900D26137 = {
@@ -833,7 +747,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 070B8EE51B6E53F900D26137 /* Build configuration list for PBXProject "Beat Mapper!!" */;
+			buildConfigurationList = 070B8EE51B6E53F900D26137 /* Build configuration list for PBXProject "Simple Drawing" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -850,8 +764,8 @@
 					ProjectRef = 9ACB5ED81F802A6A00B211A7 /* ace.xcodeproj */;
 				},
 				{
-					ProductGroup = 076A24B11B6E773B00BF6C7D /* Products */;
-					ProjectRef = 076A24B01B6E773B00BF6C7D /* simple_drawing_simple_drawing.xcodeproj */;
+					ProductGroup = 9A852980212F934F0073FBAB /* Products */;
+					ProjectRef = 9A85297F212F934F0073FBAB /* app_simple_simple_drawing.xcodeproj */;
 				},
 				{
 					ProductGroup = 9A97F02C1D80944E000B4EC2 /* Products */;
@@ -898,22 +812,14 @@
 					ProjectRef = 076A242C1B6E772400BF6C7D /* draw2d_quartz2d.xcodeproj */;
 				},
 				{
-					ProductGroup = 076FB4CE1C9F90E000C73C4E /* Products */;
-					ProjectRef = 076FB4CD1C9F90E000C73C4E /* gcom.xcodeproj */;
-				},
-				{
-					ProductGroup = 9ACB5F4B1F802B6300B211A7 /* Products */;
-					ProjectRef = 9ACB5F4A1F802B6300B211A7 /* sphere.xcodeproj */;
-				},
-				{
 					ProductGroup = 076A24301B6E772400BF6C7D /* Products */;
 					ProjectRef = 076A242F1B6E772400BF6C7D /* wndfrm_core.xcodeproj */;
 				},
 			);
 			projectRoot = "";
 			targets = (
-				070B8EE91B6E53F900D26137 /* Beat Mapper!! */,
-				070B8EFC1B6E53FA00D26137 /* Beat Mapper!!Tests */,
+				070B8EE91B6E53F900D26137 /* Simple Drawing */,
+				070B8EFC1B6E53FA00D26137 /* Hello Multiverse!!Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -1046,48 +952,6 @@
 			remoteRef = 076A24A21B6E772400BF6C7D /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		076A24B71B6E773B00BF6C7D /* libsimple_drawing_simple_drawing.dylib */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.dylib";
-			path = libsimple_drawing_simple_drawing.dylib;
-			remoteRef = 076A24B61B6E773B00BF6C7D /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		076A24B91B6E773B00BF6C7D /* libsimple_drawing_simple_drawing.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libsimple_drawing_simple_drawing.a;
-			remoteRef = 076A24B81B6E773B00BF6C7D /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		076A24BB1B6E773B00BF6C7D /* simple_drawing_simple_drawing_iosTests.xctest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = simple_drawing_simple_drawing_iosTests.xctest;
-			remoteRef = 076A24BA1B6E773B00BF6C7D /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		076FB4D41C9F90E100C73C4E /* libgcom.dylib */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.dylib";
-			path = libgcom.dylib;
-			remoteRef = 076FB4D31C9F90E100C73C4E /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		076FB4D61C9F90E100C73C4E /* libios_gcom.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libios_gcom.a;
-			remoteRef = 076FB4D51C9F90E100C73C4E /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		076FB4D81C9F90E100C73C4E /* gcom_iosTests.xctest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = gcom_iosTests.xctest;
-			remoteRef = 076FB4D71C9F90E100C73C4E /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
 		9A22037D1FFDC81000EE03EE /* libaxispng.dylib */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.dylib";
@@ -1107,6 +971,29 @@
 			fileType = wrapper.cfbundle;
 			path = axispng_iosTests.xctest;
 			remoteRef = 9A2203801FFDC81000EE03EE /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9A852986212F93500073FBAB /* libapp_core_hellomultiverse.dylib */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.dylib";
+			name = libapp_core_hellomultiverse.dylib;
+			path = libapp_simple_simple_drawing.dylib;
+			remoteRef = 9A852985212F93500073FBAB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9A852988212F93500073FBAB /* libapp_core_hellomultiverse.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			name = libapp_core_hellomultiverse.a;
+			path = libapp_simple_simple_drawing.a;
+			remoteRef = 9A852987212F93500073FBAB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9A85298A212F93500073FBAB /* app_core_hellomultiverse_iosTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = app_core_hellomultiverse_iosTests.xctest;
+			remoteRef = 9A852989212F93500073FBAB /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		9A97F0331D80944E000B4EC2 /* libatomiconv.dylib */ = {
@@ -1200,27 +1087,6 @@
 			remoteRef = 9ACB5EE21F802A6A00B211A7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		9ACB5F511F802B6300B211A7 /* libsphere.dylib */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.dylib";
-			path = libsphere.dylib;
-			remoteRef = 9ACB5F501F802B6300B211A7 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		9ACB5F531F802B6300B211A7 /* libios_sphere.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libios_sphere.a;
-			remoteRef = 9ACB5F521F802B6300B211A7 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		9ACB5F551F802B6300B211A7 /* sphere_iosTests.xctest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = sphere_iosTests.xctest;
-			remoteRef = 9ACB5F541F802B6300B211A7 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -1264,7 +1130,7 @@
 /* Begin PBXTargetDependency section */
 		070B8EFF1B6E53FA00D26137 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 070B8EE91B6E53F900D26137 /* Beat Mapper!! */;
+			target = 070B8EE91B6E53F900D26137 /* Simple Drawing */;
 			targetProxy = 070B8EFE1B6E53FA00D26137 /* PBXContainerItemProxy */;
 		};
 		076A24BD1B6E776300BF6C7D /* PBXTargetDependency */ = {
@@ -1297,20 +1163,15 @@
 			name = wndfrm_core;
 			targetProxy = 076A24D61B6E777500BF6C7D /* PBXContainerItemProxy */;
 		};
-		076FB4DA1C9F914E00C73C4E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = gcom;
-			targetProxy = 076FB4D91C9F914E00C73C4E /* PBXContainerItemProxy */;
-		};
-		07AF892F1B7233E300150CC2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = simple_drawing_simple_drawing;
-			targetProxy = 07AF892E1B7233E300150CC2 /* PBXContainerItemProxy */;
-		};
 		9A2203931FFDCCEE00EE03EE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = axispng;
 			targetProxy = 9A2203921FFDCCEE00EE03EE /* PBXContainerItemProxy */;
+		};
+		9A8529C1212F950C0073FBAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = app_simple_simple_drawing;
+			targetProxy = 9A8529C0212F950C0073FBAB /* PBXContainerItemProxy */;
 		};
 		9A97F1871D80DF0B000B4EC2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1347,11 +1208,6 @@
 			name = ace;
 			targetProxy = 9ACB5F021F802A8A00B211A7 /* PBXContainerItemProxy */;
 		};
-		9ACB5F571F802B7200B211A7 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = sphere;
-			targetProxy = 9ACB5F561F802B7200B211A7 /* PBXContainerItemProxy */;
-		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
@@ -1367,12 +1223,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -1409,7 +1267,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = "$(WorkspaceDir)/../../../include $(WorkspaceDir)/../../../nodeapp/include $(WorkspaceDir)/../../../app/include . .. $(WorkspaceDir)/../../.. $(WorkspaceDir)/../../../app $(WorkspaceDir)/../../../app/appseed $(WorkspaceDir)/../../../app/appseed/core $(WorkspaceDir)/../../../app/appseed/base $(WorkspaceDir)/../../../app/appseed/axis $(WorkspaceDir)/../../../app/appseed/aura $(WorkspaceDir)/../.. $(WorkspaceDir)/../../base/include $(WorkspaceDir)/../../../app/base/include $(WorkspaceDir)/../../appseed $(WorkspaceDir)/../../../app/base";
-				WorkspaceDir = "$(SRCROOT)/../../../nodeapp/seed/metaseed";
+				WorkspaceDir = "$(SRCROOT)/../../../nodeapp/seed/macos";
 			};
 			name = Debug;
 		};
@@ -1425,12 +1283,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -1459,7 +1319,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = "$(WorkspaceDir)/../../../include $(WorkspaceDir)/../../../nodeapp/include $(WorkspaceDir)/../../../app/include . .. $(WorkspaceDir)/../../.. $(WorkspaceDir)/../../../app $(WorkspaceDir)/../../../app/appseed $(WorkspaceDir)/../../../app/appseed/core $(WorkspaceDir)/../../../app/appseed/base $(WorkspaceDir)/../../../app/appseed/axis $(WorkspaceDir)/../../../app/appseed/aura $(WorkspaceDir)/../.. $(WorkspaceDir)/../../base/include $(WorkspaceDir)/../../../app/base/include $(WorkspaceDir)/../../appseed $(WorkspaceDir)/../../../app/base";
-				WorkspaceDir = "$(SRCROOT)/../../../nodeapp/seed/metaseed";
+				WorkspaceDir = "$(SRCROOT)/../../../nodeapp/seed/macos";
 			};
 			name = Release;
 		};
@@ -1471,8 +1331,8 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				INFOPLIST_FILE = "$(SRCROOT)/macos/Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				PRODUCT_BUNDLE_IDENTIFIER = "cc.ca2.app-core.simple_drawing";
-				PRODUCT_NAME = "Beat Mapper!!";
+				PRODUCT_BUNDLE_IDENTIFIER = "cc.ca2.app-simple.simple-drawing";
+				PRODUCT_NAME = "Simple Drawing";
 			};
 			name = Debug;
 		};
@@ -1484,8 +1344,8 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				INFOPLIST_FILE = "$(SRCROOT)/macos/Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				PRODUCT_BUNDLE_IDENTIFIER = "cc.ca2.app-core.simple_drawing";
-				PRODUCT_NAME = "Beat Mapper!!";
+				PRODUCT_BUNDLE_IDENTIFIER = "cc.ca2.app-simple.simple-drawing";
+				PRODUCT_NAME = "Simple Drawing";
 			};
 			name = Release;
 		};
@@ -1502,11 +1362,11 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Beat Mapper!!Tests/Info.plist";
+				INFOPLIST_FILE = "Hello Multiverse!!Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ca2.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Beat Mapper!!.app/Contents/MacOS/Beat Mapper!!";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello Multiverse!!.app/Contents/MacOS/Hello Multiverse!!";
 			};
 			name = Debug;
 		};
@@ -1519,18 +1379,18 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Beat Mapper!!Tests/Info.plist";
+				INFOPLIST_FILE = "Hello Multiverse!!Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ca2.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Beat Mapper!!.app/Contents/MacOS/Beat Mapper!!";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello Multiverse!!.app/Contents/MacOS/Hello Multiverse!!";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		070B8EE51B6E53F900D26137 /* Build configuration list for PBXProject "Beat Mapper!!" */ = {
+		070B8EE51B6E53F900D26137 /* Build configuration list for PBXProject "Simple Drawing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				070B8F051B6E53FA00D26137 /* Debug */,
@@ -1539,7 +1399,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		070B8F071B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Beat Mapper!!" */ = {
+		070B8F071B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Simple Drawing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				070B8F081B6E53FA00D26137 /* Debug */,
@@ -1548,7 +1408,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		070B8F0A1B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Beat Mapper!!Tests" */ = {
+		070B8F0A1B6E53FA00D26137 /* Build configuration list for PBXNativeTarget "Hello Multiverse!!Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				070B8F0B1B6E53FA00D26137 /* Debug */,

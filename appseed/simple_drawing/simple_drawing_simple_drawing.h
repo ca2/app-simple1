@@ -14,6 +14,7 @@ namespace simple_drawing
       rect                    m_rect;
       ::user::impact *        m_pview;
       string                  m_strFont;
+      int                     m_iDrawing;
 
 
       simple_drawing(::aura::application * papp);

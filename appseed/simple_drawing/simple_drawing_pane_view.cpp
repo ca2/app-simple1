@@ -1,4 +1,4 @@
-﻿#include "framework.h"
+#include "framework.h"
 #include <math.h>
 
 
@@ -57,11 +57,12 @@ namespace simple_drawing
          return;
 
       set_tab("Menu",::simple_drawing::PaneViewMenu);
-      set_tab("simple_drawing", ::simple_drawing::PaneViewBeatMapper);
+      set_tab("001", "drawing1");
+      set_tab("002", "drawing2");
       set_tab("Font","font_sel");
       set_tab("Open", "file_manager");
 
-      set_cur_tab_by_id(::simple_drawing::PaneViewBeatMapper);
+      set_cur_tab_by_id("drawing1");
 
    }
 
@@ -117,14 +118,14 @@ namespace simple_drawing
 
          m_pviewLast = NULL;
 
-         if(get_view_id() == ::simple_drawing::PaneViewBeatMapper)
-         {
-
-            m_pviewLast = dynamic_cast < view * > (get_pane_by_id(::simple_drawing::PaneViewBeatMapper)->m_pholder->get_child_by_id("simple_drawing_view"));
-            m_pviewLast->set_need_layout();
-            m_strTopicTitle = get_pane_by_id(::simple_drawing::PaneViewBeatMapper)->m_straTitle.implode(" ");
-
-         }
+//         if(get_view_id() == ::simple_drawing::PaneViewBeatMapper)
+//         {
+//
+//            m_pviewLast = dynamic_cast < view * > (get_view());
+//            m_pviewLast->set_need_layout();
+//            m_strTopicTitle = get_pane_by_id(::simple_drawing::PaneViewBeatMapper)->m_straTitle.implode(" ");
+//
+//         }
 
       }
       else if (get_view_id() == ::simple_drawing::PaneViewMenu)
@@ -141,7 +142,7 @@ namespace simple_drawing
          if (m_pviewLast != NULL && pfontview.is_set())
          {
 
-            pfontview->set_sel_by_name(m_pviewLast->m_psimple_drawing->m_strFont);
+            pfontview->set_sel_by_name(m_pviewLast->m_psimpledrawing->m_strFont);
 
          }
 
@@ -166,13 +167,17 @@ namespace simple_drawing
 
       }
       break;
-      case PaneViewBeatMapper:
-      {
-
-         Application.m_ptemplateBeatMapperView->create_subdocument(pcreatordata);
-
       }
-      break;
+      
+      string strId = pcreatordata->m_id;
+      
+      if(::str::begins_eat_ci(strId, "drawing"))
+      {
+         
+         auto pview = create_view < view >(pcreatordata);
+         
+         pview->m_psimpledrawing->m_iDrawing = atoi(strId);
+         
       }
 
       ::userex::pane_tab_view::on_create_view(pcreatordata);
