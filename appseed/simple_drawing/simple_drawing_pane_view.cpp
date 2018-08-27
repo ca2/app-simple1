@@ -61,6 +61,7 @@ namespace simple_drawing
       set_tab("002", "drawing2");
       set_tab("003", "drawing3");
       set_tab("arcs", "drawing4");
+      set_tab("arcpths", "drawing5");
       set_tab("Font","font_sel");
       set_tab("Open", "file_manager");
 
@@ -170,18 +171,18 @@ namespace simple_drawing
       }
       break;
       }
-      
+
       string strId = pcreatordata->m_id;
-      
+
       if(::str::begins_eat_ci(strId, "drawing"))
       {
-         
+
          auto pview = create_view < view >(pcreatordata);
-         
+
          pview->m_psimpledrawing->m_iDrawing = atoi(strId);
-         
+
       }
-      
+
       pcreatordata->m_eflag.signalize(::user::view_creator_data::flag_hide_all_others_on_show);
 
       ::userex::pane_tab_view::on_create_view(pcreatordata);

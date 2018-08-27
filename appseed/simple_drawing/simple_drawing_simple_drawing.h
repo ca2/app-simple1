@@ -32,10 +32,12 @@ namespace simple_drawing
       }
 
       virtual void _001OnDraw(::draw2d::graphics * pgraphics);
-      
+
       virtual void _001OnDraw1Through3(::draw2d::graphics * pgraphics);
-      
-      virtual void _001OnDrawArcs(::draw2d::graphics * pgraphics);
+
+      virtual void _001OnDrawArcs(::draw2d::graphics * pgraphics, bool bPath);
+
+      virtual void draw_arc(::draw2d::graphics * pgraphics, rect & r, double dStart, double dAngle, bool bPath);
 
       virtual void on_layout();
 
