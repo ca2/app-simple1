@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.646432"
+            timestampString = "557040487.483741"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "136"
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646548"
+            timestampString = "557041758.25179"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4567"
-            endingLineNumber = "4567"
+            startingLineNumber = "4575"
+            endingLineNumber = "4575"
             landmarkName = "graphics::draw_line(LPCPOINTD lppt1, LPCPOINTD lppt2, ::draw2d::pen * ppen)"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646616"
+            timestampString = "557041758.252205"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5919"
-            endingLineNumber = "5919"
+            startingLineNumber = "5927"
+            endingLineNumber = "5927"
             landmarkName = "graphics::internal_show_text(::draw2d::font_sp spfont,::draw2d::brush_sp spbrush,::draw2d::pen_sp sppen, double x, double y, double wAlign, UINT nFormat, const char * lpszString, int32_t nCount, CGTextDrawingMode emode, bool bDraw, CGFloat * pascent, CGFloat * pdescent, CGFloat * pleading, CGFloat * pwidth)"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646675"
+            timestampString = "557041758.25246"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5905"
-            endingLineNumber = "5905"
+            startingLineNumber = "5913"
+            endingLineNumber = "5913"
             landmarkName = "graphics::internal_show_text(::draw2d::font_sp spfont,::draw2d::brush_sp spbrush,::draw2d::pen_sp sppen, double x, double y, double wAlign, UINT nFormat, const char * lpszString, int32_t nCount, CGTextDrawingMode emode, bool bDraw, CGFloat * pascent, CGFloat * pdescent, CGFloat * pleading, CGFloat * pwidth)"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646731"
+            timestampString = "557041758.2527111"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "4977"
-            endingLineNumber = "4977"
+            startingLineNumber = "4985"
+            endingLineNumber = "4985"
             landmarkName = "graphics::_fill(::draw2d::brush * pbrush, bool bContextClip)"
             landmarkType = "7">
          </BreakpointContent>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646787"
+            timestampString = "557041758.25302"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6035"
-            endingLineNumber = "6035"
+            startingLineNumber = "6043"
+            endingLineNumber = "6043"
             landmarkName = "graphics::internal_show_text(::draw2d::font_sp spfont,::draw2d::brush_sp spbrush,::draw2d::pen_sp sppen, double x, double y, double wAlign, UINT nFormat, const char * lpszString, int32_t nCount, CGTextDrawingMode emode, bool bDraw, CGFloat * pascent, CGFloat * pdescent, CGFloat * pleading, CGFloat * pwidth)"
             landmarkType = "7">
          </BreakpointContent>
@@ -106,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.646975"
+            timestampString = "557041758.253399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5720"
-            endingLineNumber = "5720"
+            startingLineNumber = "5728"
+            endingLineNumber = "5728"
             landmarkName = "graphics::internal_show_text(::draw2d::font_sp spfont,::draw2d::brush_sp spbrush,::draw2d::pen_sp sppen, double x, double y, double wAlign, UINT nFormat, const char * lpszString, int32_t nCount, CGTextDrawingMode emode, bool bDraw, CGFloat * pascent, CGFloat * pdescent, CGFloat * pleading, CGFloat * pwidth)"
             landmarkType = "7">
          </BreakpointContent>
@@ -122,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.647035"
+            timestampString = "557040487.4841959"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "83"
@@ -138,7 +138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.647122"
+            timestampString = "557040487.4844691"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "118"
@@ -218,7 +218,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.647311"
+            timestampString = "557040487.4848059"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "116"
@@ -230,7 +230,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/aura/aura/aura/aura_system_factory.inl"
@@ -243,14 +243,14 @@
             landmarkType = "9">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;int_biunique&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.545863"
+                  timestampString = "557040403.388359"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -258,14 +258,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;xfplayer_view_line&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.550014"
+                  timestampString = "557040403.395124"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -273,14 +273,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;user::split_layout&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.553952"
+                  timestampString = "557040403.398405"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -288,14 +288,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;user::split_bar&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.557417"
+                  timestampString = "557040403.407408"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -303,14 +303,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;user::split_layout::Pane&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.5609879"
+                  timestampString = "557040403.416608"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -318,14 +318,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_frame_window&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.56417"
+                  timestampString = "557040403.423998"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -333,14 +333,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;prodevian_translucent_simple_frame_window&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.570074"
+                  timestampString = "557040403.426582"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -348,14 +348,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_child_frame&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.57385"
+                  timestampString = "557040403.429026"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -363,14 +363,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_main_frame&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.5891581"
+                  timestampString = "557040403.431618"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -378,14 +378,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;user::document&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.593843"
+                  timestampString = "557040403.434224"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -393,14 +393,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;user::split_view&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.5971251"
+                  timestampString = "557040403.437251"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -408,14 +408,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;userex::split_view&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.600461"
+                  timestampString = "557040403.440311"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -423,14 +423,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_mesh_data&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.604634"
+                  timestampString = "557040403.443388"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -438,14 +438,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_list_data&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.608134"
+                  timestampString = "557040403.4485281"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -453,14 +453,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;simple_list_header_control&gt;::clone(object*)"
                   moduleName = "libcore.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/core/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031886.6118259"
+                  timestampString = "557040403.453004"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -468,14 +468,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;macos::stdio_file&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.07151"
+                  timestampString = "557040403.758914"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -483,14 +483,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;macos::file&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.075881"
+                  timestampString = "557040403.761863"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -498,14 +498,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;create&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.0794899"
+                  timestampString = "557040403.764707"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -513,14 +513,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;application_bias&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.083095"
+                  timestampString = "557040403.767822"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -528,14 +528,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;command_line&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.0868911"
+                  timestampString = "557040403.771347"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -543,14 +543,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;manual_reset_event&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.090169"
+                  timestampString = "557040403.774682"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -558,14 +558,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;mutex&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.09351"
+                  timestampString = "557040403.7778651"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -573,14 +573,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;event&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.0987051"
+                  timestampString = "557040403.78089"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -588,14 +588,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;xml::edit_item&gt;::clone(object*)"
                   moduleName = "libaura.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/aura/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.1019419"
+                  timestampString = "557040403.783365"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -603,14 +603,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;macos::axis::file_system&gt;::clone(object*)"
                   moduleName = "libaxis.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/axis/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.272148"
+                  timestampString = "557040405.492355"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -618,14 +618,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;macos::axis::dir&gt;::clone(object*)"
                   moduleName = "libaxis.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/axis/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031887.275663"
+                  timestampString = "557040405.495787"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -633,14 +633,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::dib&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.298805"
+                  timestampString = "557040413.271112"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -648,14 +648,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::graphics&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.303416"
+                  timestampString = "557040413.272963"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -663,14 +663,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::bitmap&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.307547"
+                  timestampString = "557040413.275111"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -678,14 +678,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::pen&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.311354"
+                  timestampString = "557040413.277401"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -693,14 +693,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::brush&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.31778"
+                  timestampString = "557040413.279984"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -708,14 +708,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::palette&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.326002"
+                  timestampString = "557040413.282706"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -723,14 +723,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::region&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.330321"
+                  timestampString = "557040413.28494"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -738,14 +738,14 @@
                   offsetFromSymbolStart = "355">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "cloneable_factory_item&lt;draw2d_quartz2d::font&gt;::clone(object*)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/../aura/aura/aura/aura_system_factory.inl"
-                  timestampString = "557031889.334663"
+                  timestampString = "557040413.287481"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "79"
@@ -874,7 +874,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.64779"
+            timestampString = "557040487.485167"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "134"
@@ -890,7 +890,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/aura/graphics/draw2d/draw2d_graphics.cpp"
-            timestampString = "557031885.6478471"
+            timestampString = "557041042.902007"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1461"
@@ -906,7 +906,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.647886"
+            timestampString = "557040487.485446"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "124"
@@ -938,11 +938,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.648002"
+            timestampString = "557041758.253803"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6094"
-            endingLineNumber = "6094"
+            startingLineNumber = "6102"
+            endingLineNumber = "6102"
             landmarkName = "graphics::internal_show_text(::draw2d::font_sp spfont,::draw2d::brush_sp spbrush,::draw2d::pen_sp sppen, double x, double y, double wAlign, UINT nFormat, const char * lpszString, int32_t nCount, CGTextDrawingMode emode, bool bDraw, CGFloat * pascent, CGFloat * pdescent, CGFloat * pleading, CGFloat * pwidth)"
             landmarkType = "7">
          </BreakpointContent>
@@ -954,11 +954,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.648041"
+            timestampString = "557041758.254133"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6161"
-            endingLineNumber = "6161"
+            startingLineNumber = "6169"
+            endingLineNumber = "6169"
             landmarkName = "graphics::internal_draw_text(CGTextDrawingMode emode, double x, double y, CTLineRef line, ::draw2d::brush * pbrush)"
             landmarkType = "7">
          </BreakpointContent>
@@ -970,7 +970,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.64808"
+            timestampString = "557040487.485649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "123"
@@ -1049,11 +1049,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
-            timestampString = "557031885.6481889"
+            timestampString = "557041758.254387"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5001"
-            endingLineNumber = "5001"
+            startingLineNumber = "5009"
+            endingLineNumber = "5009"
             landmarkName = "graphics::_fill(::draw2d::brush * pbrush, bool bContextClip)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1061,7 +1061,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
@@ -1074,14 +1074,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "draw2d_quartz2d::dib::dib(draw2d_quartz2d::dib const&amp;)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
-                  timestampString = "557031889.3778189"
+                  timestampString = "557040413.306495"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "52"
@@ -1089,14 +1089,14 @@
                   offsetFromSymbolStart = "250">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "draw2d_quartz2d::dib::dib(draw2d_quartz2d::dib const&amp;)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
-                  timestampString = "557031889.383303"
+                  timestampString = "557040413.309294"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "52"
@@ -1109,7 +1109,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
@@ -1122,14 +1122,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "draw2d_quartz2d::dib::dib(draw2d_quartz2d::dib const&amp;)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
-                  timestampString = "557031889.3889149"
+                  timestampString = "557040413.313731"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -1137,14 +1137,14 @@
                   offsetFromSymbolStart = "201">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "draw2d_quartz2d::dib::dib(draw2d_quartz2d::dib const&amp;)"
                   moduleName = "libdraw2d_quartz2d.dylib"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///macos/app/appseed/draw2d_quartz2d/draw2d_quartz2d_dib.cpp"
-                  timestampString = "557031889.3938"
+                  timestampString = "557040413.316703"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -1177,12 +1177,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
-            timestampString = "557031885.64838"
+            timestampString = "557040487.48586"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "117"
             endingLineNumber = "117"
             landmarkName = "simple_drawing::_001OnDraw1Through3(::draw2d::graphics * pgraphics)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../appseed/simple_drawing/simple_drawing_simple_drawing.cpp"
+            timestampString = "557040487.48604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "simple_drawing::_001OnDrawArcs(::draw2d::graphics * pgraphics, bool bPath)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../app/appseed/aura/graphics/draw2d/draw2d_graphics.cpp"
+            timestampString = "557041042.902522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "767"
+            endingLineNumber = "767"
+            landmarkName = "graphics::Arc(i32 x1, i32 y1, i32 w, i32 h, double start, double extends)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../app/appseed/draw2d_quartz2d/draw2d_quartz2d_graphics.cpp"
+            timestampString = "557041758.254721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "656"
+            endingLineNumber = "656"
+            landmarkName = "graphics::Arc(double x, double y, double w, double h, double start, double extends)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
