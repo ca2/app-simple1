@@ -11,10 +11,11 @@ namespace simple_drawing
    public:
 
 
-      rect                    m_rect;
-      ::user::impact *        m_pview;
-      string                  m_strFont;
-      int                     m_iDrawing;
+      rect                                m_rect;
+      ::user::impact *                    m_pview;
+      string                              m_strFont;
+      int                                 m_iDrawing;
+      string_map < ::visual::dib_sp >     m_dibmap;
 
 
       simple_drawing(::aura::application * papp);
@@ -31,6 +32,10 @@ namespace simple_drawing
       }
 
       virtual void _001OnDraw(::draw2d::graphics * pgraphics);
+      
+      virtual void _001OnDraw1Through3(::draw2d::graphics * pgraphics);
+      
+      virtual void _001OnDrawArcs(::draw2d::graphics * pgraphics);
 
       virtual void on_layout();
 

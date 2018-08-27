@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 
 namespace simple_drawing
@@ -18,15 +18,15 @@ namespace simple_drawing
       virtual ~main_frame();
 
 
-      virtual void assert_valid() const;
-      virtual void dump(dump_context & dumpcontext) const;
+      virtual void assert_valid() const override;
+      virtual void dump(dump_context & dumpcontext) const override;
 
 
       using ::sphere::main_frame::get_translucency;
       virtual bool get_translucency(::user::e_translucency & etranslucency, ::user::e_element eelement, ::user::style_context * pui) override;
-      virtual sp(::user::wndfrm::frame::frame) create_frame_schema();
+      virtual sp(::user::wndfrm::frame::frame) create_frame_schema() override;
 
-      virtual bool has_pending_graphical_update();
+      virtual bool has_pending_graphical_update() override;
 
    };
 

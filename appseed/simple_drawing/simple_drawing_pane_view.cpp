@@ -59,6 +59,8 @@ namespace simple_drawing
       set_tab("Menu",::simple_drawing::PaneViewMenu);
       set_tab("001", "drawing1");
       set_tab("002", "drawing2");
+      set_tab("003", "drawing3");
+      set_tab("arcs", "drawing4");
       set_tab("Font","font_sel");
       set_tab("Open", "file_manager");
 
@@ -179,6 +181,8 @@ namespace simple_drawing
          pview->m_psimpledrawing->m_iDrawing = atoi(strId);
          
       }
+      
+      pcreatordata->m_eflag.signalize(::user::view_creator_data::flag_hide_all_others_on_show);
 
       ::userex::pane_tab_view::on_create_view(pcreatordata);
 
@@ -209,9 +213,9 @@ namespace simple_drawing
                      && !pevent->m_actioncontext.is_source(::action::source_sync))
                {
 
-                  int iCheck = atoi(strCheck);
+                  //int iCheck = atoi(strCheck);
 
-                  sp(::user::check) pcheck = pevent->m_puie;
+                  //sp(::user::check) pcheck = pevent->m_puie;
 
                }
 

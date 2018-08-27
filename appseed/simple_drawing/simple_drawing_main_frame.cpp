@@ -1,4 +1,4 @@
-﻿#include "framework.h"
+#include "framework.h"
 
 
 namespace simple_drawing
@@ -8,6 +8,7 @@ namespace simple_drawing
    main_frame::main_frame(::aura::application * papp) :
       object(papp),
       simple_frame_window(papp),
+   simple_main_frame(papp),
       ::sphere::main_frame(papp)
    {
 
