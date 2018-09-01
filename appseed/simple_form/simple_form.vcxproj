@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{188CF8F3-FC6C-4DC6-9902-4E41FA7A7127}</ProjectGuid>
+    <ProjectGuid>{9A40D3D5-9296-45D8-9842-DE7F6EB46842}</ProjectGuid>
     <RootNamespace>app_simple_simple_form</RootNamespace>
     <Keyword>Win32Proj</Keyword>
     <ProjectName>app_simple_simple_form</ProjectName>
